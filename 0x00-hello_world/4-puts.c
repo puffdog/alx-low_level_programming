@@ -1,8 +1,7 @@
 #include<stdio.h>
-
 /**
  * main - is the entry point
- * Return : 0 is the output
+ * Return : correct output
  */
 int main(void)
 {
