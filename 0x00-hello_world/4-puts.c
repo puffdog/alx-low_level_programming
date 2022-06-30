@@ -1,7 +1,10 @@
+/**
+ * main-entry point
+ * return: 0 if succesful
+ */
 #include <stdio.h>
-int main(void)
-
-
-{	puts("\"Programming is like a building multilingual puzzle");
-	Return (0);
+int main (void)
+{
+	puts("\"Programming is like bulding multilingual puzzle");
+	return (0);
 }
