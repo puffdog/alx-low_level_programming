@@ -2,7 +2,7 @@
 /**
  * main - is the entry point
  * Description : c programming hello world
- * Return : correct output
+ * Return: return always 0
  */
 int main(void)
 {
