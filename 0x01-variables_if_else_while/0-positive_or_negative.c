@@ -2,6 +2,11 @@
 #include <stdio.h>
 #include <time.h>
 
+/**
+ * main - is the entry point
+ * 
+ * Return: anything 0
+ */
 /* more headers goes there */
 /* betty style doc for function main goes there */
 int main(void)
