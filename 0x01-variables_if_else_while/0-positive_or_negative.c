@@ -4,8 +4,8 @@
 
 /**
  * main - is the entry point
- * 
- * Return: anything 0
+ * Description: if else statemen
+ * Return:anything 0
  */
 /* more headers goes there */
 /* betty style doc for function main goes there */
