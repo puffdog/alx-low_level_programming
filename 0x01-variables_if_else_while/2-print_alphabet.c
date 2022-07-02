@@ -2,7 +2,7 @@
 
 #include <stdlib.h>
 
-#include <stdtime.h>
+#include <time.h>
 /**
  * main - is the entry point
  * Description: determine code info
