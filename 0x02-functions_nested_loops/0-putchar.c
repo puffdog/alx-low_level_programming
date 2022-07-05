@@ -1,10 +1,22 @@
-#include <stdio.h>
+#include "main.h"
 
-/*
+/**
  * main - is the entry point
- * Description:describe what code does
- * Return:success 0 
+ * Description:describe how the code works
+ * Return:success is 0
  */
 int main(void)
-printf("_putchar\n");
-return 0;
+{
+
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
+
+}
