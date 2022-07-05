@@ -1,4 +1,4 @@
-#inlucde <stdio.h>
+#include <stdio.h>
 
 /*
  * main - is the entry point
@@ -6,5 +6,5 @@
  * Return:success 0 
  */
 int main(void)
-printf(_putchar\n);
+printf("_putchar\n");
 return 0;
