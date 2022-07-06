@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_sign:with the lower case
+ * print_sign - find main in main.h
  * @n:represent number
  * Description:the use of function
  * -1 if number is negative
