@@ -3,8 +3,9 @@
 /**
  * print_sign:with the lower case
  * @n:represent number
- * Description:describe the code
- * Return:1 if is true or 0 if false
+ * Description:the use of function
+ * -1 if number is negative
+ * Return:1 if number is positive or 0 if negative
  */
 
 int print_sign(int n)
