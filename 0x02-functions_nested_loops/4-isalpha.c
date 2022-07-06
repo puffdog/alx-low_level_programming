@@ -3,7 +3,6 @@
 
 
 /**
- *
  * _isalpha - alpha is in the main
  *
  * @c: An input character
