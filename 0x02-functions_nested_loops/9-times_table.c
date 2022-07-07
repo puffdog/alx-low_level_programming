@@ -8,11 +8,14 @@
  * Return: Nothing 0
  */
 void times_table(void)
+
 {
 int i = 0;
 int j = 0;
 int prod;
 while (i < 10)
+{
+while (j < 10)
 {
 prod = i * j;
 if (prod <= 9 && j != 0)
