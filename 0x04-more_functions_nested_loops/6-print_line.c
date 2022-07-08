@@ -1,0 +1,18 @@
+#include "main.h"
+
+/**
+ * print_line - is the main
+ * @n: is the number
+ * Return: return 0
+ */
+
+void print_line(int n)
+{
+int i = 0;
+if (n > 0)
+{
+for (; i < n; i++)
+_putchar('_');
+}
+_putchar('\n');
+}
