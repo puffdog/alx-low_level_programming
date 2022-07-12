@@ -13,7 +13,7 @@ int a = 0, b = 0;
 char rev;
 while (s[a] != '\0')
 a++;
-while (a > b--)
+while (b < a--)
 {
 rev = s[b];
 s[b++] = s[a];
