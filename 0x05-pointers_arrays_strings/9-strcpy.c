@@ -9,8 +9,10 @@ i * Return: success 0
  */
 char *_strcpy(char *dest, char *src)
 {
-char *a = dest;
-while (*src != '\0')
-*dest++ = *src++;
-return (a);
+int i = -1;
+do {
+i++;
+dest[i] = src[i];
+} while (src[i] != '\0');
+return (dest);
 }
